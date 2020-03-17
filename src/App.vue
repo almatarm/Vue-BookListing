@@ -6,12 +6,11 @@
 </template>
 
 <script>
-import BookList from './components/BookList'
-
+import BookList from './components/BookList';
 export default {
   name: 'app',
   components: {
-    BookList
+    BookList,
   },
 };
 </script>
